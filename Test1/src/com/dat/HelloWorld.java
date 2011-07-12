@@ -13,7 +13,7 @@ public class HelloWorld {
 	}
 	
 	public void test(String str) {
-		System.out.println("show text: " + str);
+		System.out.println("show 111: " + str);
 	}
 
 	public void showMessage() {
