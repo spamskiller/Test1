@@ -16,7 +16,7 @@ public class HelloWorld {
 		System.out.println("show 111: " + str);
 	}
 
-	public void showMessage1aaaaaaaaaa() {
+	public void showMessage1aaaaaaaaaaxxx() {
 		System.out.println("alo1xxxxxxxxx");
 	}
 }
